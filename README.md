@@ -32,6 +32,7 @@ Me gusta transformar ideas y problemas reales en soluciones tecnológicas, combi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Desarrollo Web
 
@@ -71,9 +72,10 @@ Me gusta transformar ideas y problemas reales en soluciones tecnológicas, combi
 
 Aplicación web orientada al comercio electrónico y gestión de productos.
 
-**Tecnologías:**
-
+**Tecnologías:**  
 `Next.js` `TypeScript` `React` `Supabase`
+
+🔗 [Ver repositorio](https://github.com/93Cast/SosaStore)
 
 ---
 
@@ -81,9 +83,10 @@ Aplicación web orientada al comercio electrónico y gestión de productos.
 
 Sistema para la administración y control de inventario.
 
-**Tecnologías:**
-
+**Tecnologías:**  
 `Java` `Spring Boot` `MySQL`
+
+🔗 [Ver repositorio](https://github.com/93Cast/SistemaInventario)
 
 ---
 
@@ -91,9 +94,21 @@ Sistema para la administración y control de inventario.
 
 Proyecto educativo para demostrar operaciones CRUD utilizando Spring.
 
-**Tecnologías:**
-
+**Tecnologías:**  
 `Java` `Spring Boot` `Thymeleaf` `MySQL`
+
+🔗 [Ver repositorio](https://github.com/93Cast/CRUDSpringExample)
+
+---
+
+### 🎮 PokeAPI
+
+Aplicación que consume información de Pokémon mediante una API.
+
+**Tecnologías:**  
+`JavaScript` `REST API`
+
+🔗 [Ver repositorio](https://github.com/93Cast/PokeApi)
 
 ---
 
@@ -101,8 +116,7 @@ Proyecto educativo para demostrar operaciones CRUD utilizando Spring.
 
 Aplicación móvil desarrollada con Flutter que consume información de anime mediante una API externa.
 
-**Tecnologías:**
-
+**Tecnologías:**  
 `Flutter` `Dart` `REST API`
 
 ---
@@ -111,8 +125,7 @@ Aplicación móvil desarrollada con Flutter que consume información de anime me
 
 Aplicación móvil desarrollada con SwiftUI e integración con Firebase Authentication.
 
-**Tecnologías:**
-
+**Tecnologías:**  
 `Swift` `SwiftUI` `Firebase`
 
 ---
@@ -142,46 +155,67 @@ Me interesa especialmente explorar cómo herramientas como la Inteligencia Artif
 # 📊 GitHub
 
 <p align="center">
-  <a href="https://github.com/93Cast">
-    <img src="https://img.shields.io/badge/GitHub-93Cast-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 93Cast"/>
-  </a>
+
+<a href="https://github.com/93Cast">
+<img src="https://img.shields.io/badge/GitHub-93Cast-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 93Cast"/>
+</a>
+
 </p>
 
+### 📈 Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=93Cast&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=93Cast&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" alt="Top Languages"/>
+<img src="./profile/stats.svg" alt="GitHub Stats"/>
 </p>
 
-### 🔥 GitHub Streak
+### 💻 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=93Cast&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+<img src="./profile/top-langs.svg" alt="Top Languages"/>
+</p>
+
+### 🔥 Actividad
+
+<p align="center">
+<img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📌 Repositorios destacados
+## 📌 Mis repositorios
 
 <p align="center">
 
-<a href="https://github.com/93Cast/SosaStore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=93Cast&repo=SosaStore&hide_border=true&theme=transparent" />
+<a href="https://github.com/93Cast/mi-portafolio">
+<img src="https://img.shields.io/badge/🌐_mi--portafolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/93Cast/SistemaInventario">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=93Cast&repo=SistemaInventario&hide_border=true&theme=transparent" />
+<a href="https://github.com/93Cast/SosaStore">
+<img src="https://img.shields.io/badge/🛒_SosaStore-000000?style=for-the-badge"/>
 </a>
 
 </p>
 
 <p align="center">
 
+<a href="https://github.com/93Cast/SistemaInventario">
+<img src="https://img.shields.io/badge/📦_SistemaInventario-000000?style=for-the-badge"/>
+</a>
+
 <a href="https://github.com/93Cast/CRUDSpringExample">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=93Cast&repo=CRUDSpringExample&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/🌐_CRUDSpringExample-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/93Cast/TarjetaDePresentacion">
+<img src="https://img.shields.io/badge/💳_TarjetaDePresentacion-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/93Cast/PokeApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=93Cast&repo=PokeApi&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/🎮_PokeApi-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -193,11 +227,11 @@ Me interesa especialmente explorar cómo herramientas como la Inteligencia Artif
 <p align="center">
 
 <a href="https://github.com/93Cast">
-  <img src="https://img.shields.io/badge/GitHub-93Cast-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-93Cast-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </p>
@@ -205,9 +239,9 @@ Me interesa especialmente explorar cómo herramientas como la Inteligencia Artif
 ---
 
 <p align="center">
-  💻 Desarrollado con pasión por la tecnología
+💻 Desarrollado con pasión por la tecnología
 </p>
 
 <p align="center">
-  ⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en darle una estrella!
+⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en darle una estrella!
 </p>
